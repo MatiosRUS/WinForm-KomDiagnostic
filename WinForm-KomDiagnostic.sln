@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForm-KomDiagnostic", "WinForm-KomDiagnostic.csproj", "{E093D8C2-B40F-482D-82A5-6ACDAB61048B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6B27F558-470A-49FF-A60E-BE8695D0A132}"
+	ProjectSection(SolutionItems) = preProject
+		img_source\editing.png = img_source\editing.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E093D8C2-B40F-482D-82A5-6ACDAB61048B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E093D8C2-B40F-482D-82A5-6ACDAB61048B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E093D8C2-B40F-482D-82A5-6ACDAB61048B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E093D8C2-B40F-482D-82A5-6ACDAB61048B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA5665C2-A7A5-4347-9C52-EED5179DCAA3}
+	EndGlobalSection
+EndGlobal
